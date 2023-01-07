@@ -4,3 +4,7 @@ It’s a GUI-based project used with the Swing module to manage ATM transactions
 
 
 https://user-images.githubusercontent.com/85923928/211137478-7931b5b2-be86-4cdf-9eba-e5a5eee05a44.mp4
+
+
+https://user-images.githubusercontent.com/85923928/211138032-8691c09b-f083-4e0a-b550-f292d155bc49.mp4
+
